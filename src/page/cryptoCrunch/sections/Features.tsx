@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import clsx from "clsx";
-import { ArrowRight, Ghost } from "lucide-react";
+import { ArrowRight } from "lucide-react";
 
 export const Features = () => {
   const sectionData =
