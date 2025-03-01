@@ -18,8 +18,8 @@ export const About = () => {
 
   return (
     <section className="text-white flex flex-col justify-center mx-4 pb-40">
-      <h5 className="text-center text-4xl lg:text-6xl font-medium">About Gravity Team</h5>
-      <p className="text-white text-lg text-center px-4 md:px-20 lg:px-40 leading-6.5 mt-20">{aboutText}</p>
+      <h2 className="section-title">About Gravity Team</h2>
+      <p className="section-description mt-20">{aboutText}</p>
 
       <div className="hidden lg:grid grid-cols-1 md:grid-cols-4 items-start mx-44 mt-20">
         {tableData.map((item) => (

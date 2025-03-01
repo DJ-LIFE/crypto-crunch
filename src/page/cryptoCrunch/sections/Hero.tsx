@@ -10,7 +10,7 @@ export const Hero = () => {
           <span>Balancing</span> <br />
           <span>Crypto Markets</span>
         </h1>
-        <p className="text-white text-lg text-center px-4 md:px-20 lg:px-40 leading-6.5 py-10">{heroDetail}</p>
+        <p className="section-description py-10">{heroDetail}</p>
       </div>
       <Button className="mt-10 mb-36 gradientBg text-sm shadow-md rounded-sm p-6 font-bold cursor-pointer">GET IN TOUCH</Button>
     </section>
