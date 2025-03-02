@@ -1,9 +1,11 @@
 import { About } from "./sections/About";
+import { BackGround } from "./sections/BackGround";
 import { Features } from "./sections/Features";
 import { Footer } from "./sections/Footer";
 import Header from "./sections/Header";
 import { Hero } from "./sections/Hero";
 import { Partners } from "./sections/Partners";
+import { Team } from "./sections/Team";
 
 export const Cryptocrunch = () => {
   return (
@@ -14,6 +16,8 @@ export const Cryptocrunch = () => {
         <About />
         <Features />
         <Partners />
+        <BackGround />
+        <Team />
         <Footer />
       </div>
     </div>

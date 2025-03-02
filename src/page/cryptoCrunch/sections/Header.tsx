@@ -3,7 +3,7 @@ import { Menu } from "lucide-react";
 
 const Header = () => {
   return (
-    <section className="flex justify-between items-center py-3 px-8 bg-transparent sticky top-4 shadow-xl z-100 backdrop-blur-2xl rounded-lg">
+    <section className="flex justify-between items-center py-3 px-8 bg-transparent sticky top-4 shadow-xl z-100 backdrop-blur-3xl rounded-lg">
       <a href="/">
         <img src="/crypto/logo.svg" alt="Crypto-logo" className="h-8" />
       </a>
