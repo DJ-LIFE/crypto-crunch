@@ -21,10 +21,8 @@ export const Team = () => {
           </Button>
         </div>
       </div>
-      <span className="bg-blue-500 h-50 w-100 rounded-full absolute blur-3xl -left-20">
-      </span>
+      <span className="bg-blue-500 h-50 w-100 rounded-full absolute blur-3xl -left-20"></span>
       <span className="bg-orange-200 h-50 w-50 rounded-full absolute blur-3xl left-40 top-85"></span>
-
     </section>
   );
 };
