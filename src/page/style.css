@@ -1,0 +1,9 @@
+.containerOne {
+  overflow: hidden;
+}
+
+.sliding-background {
+  background:url('/backgroundOne.png') repeat-x;
+  height: 500px;
+  width: 5076px;
+}
